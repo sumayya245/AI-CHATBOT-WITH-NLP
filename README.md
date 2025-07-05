@@ -33,3 +33,5 @@ Test the Chatbot
 After writing the code, we will run the script in our terminal and talk to our chatbot by typing messages.
 
 **OUTPUT**
+
+<img width="1884" height="980" alt="Image" src="https://github.com/user-attachments/assets/5ff3bd76-27cd-4b3c-a3ab-314dc51a949b" />
